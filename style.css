@@ -67,7 +67,7 @@
     border-radius: 9px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7)url('/background.png');
+    background: rgba(0, 0, 0, 0.7)url('background.png');
     background-size: cover;
     background-blend-mode: darken;
 }
